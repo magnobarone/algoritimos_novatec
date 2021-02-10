@@ -17,3 +17,4 @@ minha_lista = [1,3,5,7,9]
 
 print(pesquisa_binaria(minha_lista,9))
 print(pesquisa_binaria(minha_lista, 10))
+print(pesquisa_binaria(minha_lista, 5))
